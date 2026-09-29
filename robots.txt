@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tofaela33-byte.github.io/jaman-hospital-website/sitemap.xml
